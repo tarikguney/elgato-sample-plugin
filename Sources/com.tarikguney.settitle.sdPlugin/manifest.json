@@ -1,13 +1,13 @@
 {
   "Actions": [
     {
-      "Icon": "actionIcon",
-      "Name": "Number Display",
+      "Icon": "title_background",
+      "Name": "Title Changer",
       "States": [
         {
-          "Image": "actionDefaultImage",
+          "Image": "title_background",
           "TitleAlignment": "middle",
-          "FontSize": "16"
+          "FontSize": "17"
         }
       ],
       "SupportedInMultiActions": false,
@@ -16,10 +16,10 @@
     }
   ],
   "SDKVersion": 2,
-  "Author": "Elgato",
+  "Author": "Tarik Guney",
   "CodePath": "index.html",
-  "Description": "This lets you display a value chosen by the user",
-  "Name": "Number Display",
+  "Description": "Says Hello, Tarik. You will be happy!",
+  "Name": "Tariktan Selamlar",
   "Icon": "pluginIcon",
   "URL": "https://www.elgato.com/gaming/stream-deck",
   "PropertyInspectorPath": "numberdisplay_pi.html",
